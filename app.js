@@ -54,3 +54,5 @@ function activarCartera() {
   mensajeBox.classList.add('result-success');
   mensajeBox.textContent = 'Tu cartera digital ha sido activada exitosamente sin ningún cargo ni suscripción adicional.';
 }
+
+
